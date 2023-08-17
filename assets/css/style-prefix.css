@@ -3208,3 +3208,7 @@ footer {
   }
 
 }
+.form-container {
+  width: 70%; /* Adjust the value as needed */
+  margin: 0 auto; /* Center the container horizontally */
+}
